@@ -1,0 +1,14 @@
+.score {
+   /* position: absolute; */
+   /* margin-left: -33vw;
+   margin-top: -33vh; */
+   transform: translate3d(-35%, -500%, 0);
+   text-align: left;
+   width: 100vw;
+   color: white;
+   font-size: 17px;
+}
+
+.health {
+   color: cyan
+}

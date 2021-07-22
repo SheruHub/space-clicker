@@ -1,0 +1,10 @@
+.earth {
+   padding-top: 10px;
+   transform: translate3d(-50%, 40%, 0);
+   text-align: left;
+   /* background: #202035; */
+   color: cyan;
+   padding: 3px 5px;
+   /* border-radius: 5px; */
+   font-size: 14px;
+}

@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.menu-text {
+  width: 100vw;
+  /* padding-top: 10px; */
+  transform: translate3d(-50%, -500%, 0);
+  text-align: center;
+  /* background: #202035; */
+  color: cyan;
+  /* padding: 3px 5px; */
+  /* border-radius: 5px; */
+  font-size: 1px;
+}
+
+button {
+  transform: translate3d(-50%, -200%, 0);
+  font-size: 1px;
+  color: red;
+}
